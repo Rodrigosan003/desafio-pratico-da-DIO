@@ -1,0 +1,5 @@
+Olá.
+Sou Rodrigo.
+Esse arquivo é destinado apenas para prática do 
+Git/Github.
+Abraços para quem ler.
